@@ -1,3 +1,3 @@
 # Calculator
 
-# deployment : https://mazenbakry.github.io/Calculator/
+# Deployment : https://mazenbakry.github.io/Calculator/
